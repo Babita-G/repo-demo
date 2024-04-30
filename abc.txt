@@ -1,3 +1,1 @@
-this is a text file on repo-demo
-<br>
-new file added on the folder
+this is a text file on repo-demo.
